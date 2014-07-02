@@ -55,7 +55,7 @@
    "provides" : {
       "Excel::CloneXLSX::Format" : {
          "file" : "lib/Excel/CloneXLSX/Format.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -69,6 +69,6 @@
          "web" : "https://github.com/felliott/Excel-CloneXLSX-Format"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_authority" : "cpan:FELLIOTT"
 }
